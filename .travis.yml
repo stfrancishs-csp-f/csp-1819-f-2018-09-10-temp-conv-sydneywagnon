@@ -1,4 +1,5 @@
 language: java
-rvm:
- - 1.8
- - java
+jdk:
+  - oraclejdk8
+
+script: ant build -version
