@@ -1,0 +1,4 @@
+language: java
+rvm:
+ - 10.0
+ - java
